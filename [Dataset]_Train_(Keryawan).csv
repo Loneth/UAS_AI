@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Position,DateOfJoining,DateOfLeaving,ReasonForLeaving,LastPerformanceRating,AnnualSalary,Age,Gender
+1,John Doe,Sales,Sales Manager,2015-06-20,2020-05-15,Resigned,Excellent,75000,35,Male
+2,Jane Smith,HR,HR Executive,2017-03-15,2021-08-30,Resigned,Good,60000,29,Female
+3,Robert Brown,IT,Software Engineer,2018-09-10,,N/A,Very Good,85000,32,Male
+4,Mary Johnson,Finance,Accountant,2016-11-05,2019-12-01,Terminated,Fair,55000,40,Female
+5,Michael Williams,IT,System Administrator,2019-04-25,2023-01-10,Resigned,Excellent,70000,28,Male
+6,Patricia Taylor,Marketing,Marketing Specialist,2020-07-19,,N/A,Very Good,62000,30,Female
+7,Linda Martinez,Sales,Sales Associate,2017-01-22,2018-02-28,Resigned,Fair,45000,27,Female
+8,David Anderson,IT,Software Engineer,2018-08-15,2022-07-01,Resigned,Excellent,90000,34,Male
+9,Jennifer Thomas,HR,HR Manager,2015-12-11,,N/A,Very Good,80000,45,Female
+10,James Jackson,Finance,Financial Analyst,2019-10-01,2021-11-15,Resigned,Good,68000,33,Male
